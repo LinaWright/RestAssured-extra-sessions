@@ -1,0 +1,4 @@
+username, password, id, status
+user, user, 88, 403
+admin, admin, 12, 204
+editor, editor, 28,403
